@@ -12,7 +12,7 @@ import './Footer.css';
 
 const Footer = () => {
   return (
-    <div className="w-full">
+    <div className="w-full mt-8">
       <footer className="footer p-10 bg-base-200 text-base-content">
         <div>
           <img src={logo} alt="footer logo" />
